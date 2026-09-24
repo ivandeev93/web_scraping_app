@@ -1,0 +1,20 @@
+.venv/
+.env
+*.db
+*.sqlite3
+postgres_data/
+dump.sql
+__pycache__/
+*.pyc
+*.log
+logs/
+
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# migrations cache
+alembic/__pycache__/
